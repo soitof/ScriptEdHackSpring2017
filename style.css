@@ -1,0 +1,70 @@
+.title{
+    color: black;
+    font-family: "Carolingia (BigfooT)";
+    font-size:90px;
+    text-align: center;
+   margin: auto;
+}
+
+.titlebox{
+    width:80%;
+    height:150px;
+    border:25px solid #9D84B4;
+    margin: auto;
+}
+
+body{
+    background-image: url("watercolor.jpg");
+}
+
+p {
+    font-family:"Times New Roman";
+    text-align: center;
+    font-size:25px;
+}
+.summarybox{
+     width:80%;
+     margin: auto;
+}
+.startlink{
+    display: block;
+    margin-top: 110px;
+    margin-left:20px;
+    font-size:50px;
+}
+
+#image {
+    width: 300px;
+}
+
+.arrow{
+    width:370px; 
+    height: 100%;
+}
+
+.arrowbox{
+    margin:auto;
+    display: flex;
+}
+
+#question{
+  font-size:45px;   
+}
+#answer1,#answer2,#answer3{
+    font-size:20px;
+}
+#answer1{
+    margin-top:30px;
+}
+#nextQ{
+    font-size:35px;
+    margin-top:40px;
+}
+#summary{
+    margin-top:20px;
+    font-size:40px;
+    
+}
+#email{
+    font-size:30px;
+}
